@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vincent.sengel@gmail.com
+	name = Vincent Sengel
